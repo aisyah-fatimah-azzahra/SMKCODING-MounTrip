@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mountrip</string>
+    <string name="nama">nama</string>
+
+    <string-array name="mountain_name">
+        <item>Merbabu_3145MDPL </item>
+        <item>Sindoro_3136MDPL</item>
+        <item>Sumbing_3371MDPL</item>
+        <item>Slamet_3428MDPL</item>
+        <item>Ijen_2799MDPL</item>
+        <item>Bromo_2329MDPL</item>
+        <item>Raung_3332MDPL</item>
+        <item>Semeru_3676MDPL</item>
+    </string-array>
+
+    <array name="mountain_image">
+        <item>@drawable/g_merbabu</item>
+        <item>@drawable/g_sindoro</item>
+        <item>@drawable/g_sumbing</item>
+        <item>@drawable/g_slamet</item>
+        <item>@drawable/g_ijen</item>
+        <item>@drawable/g_bromo</item>
+        <item>@drawable/g_raung</item>
+        <item>@drawable/g_semeru</item>
+    </array>
+
+</resources>
